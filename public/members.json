@@ -1,0 +1,424 @@
+{
+    "members":[
+            {
+              "name": "Pat Kane",
+              "place": 1,
+              "accuracy": 19,
+              "fireRate": 40
+            },
+            {
+              "name": "Oneal Hampton",
+              "place": 2,
+              "accuracy": 83,
+              "fireRate": 23
+            },
+            {
+              "name": "Glenda Deleon",
+              "place": 3,
+              "accuracy": 67,
+              "fireRate": 34
+            },
+            {
+              "name": "Klein Small",
+              "place": 4,
+              "accuracy": 27,
+              "fireRate": 54
+            },
+            {
+              "name": "Mattie Solomon",
+              "place": 5,
+              "accuracy": 78,
+              "fireRate": 12
+            },
+            {
+              "name": "Avis Martin",
+              "place": 6,
+              "accuracy": 61,
+              "fireRate": 54
+            },
+            {
+              "name": "Hughes Owen",
+              "place": 7,
+              "accuracy": 90,
+              "fireRate": 18
+            },
+            {
+              "name": "Kramer Farrell",
+              "place": 8,
+              "accuracy": 16,
+              "fireRate": 32
+            },
+            {
+              "name": "Barbra Ferguson",
+              "place": 9,
+              "accuracy": 80,
+              "fireRate": 45
+            },
+            {
+              "name": "Mayo Keller",
+              "place": 10,
+              "accuracy": 90,
+              "fireRate": 43
+            },
+            {
+              "name": "Hays Rasmussen",
+              "place": 11,
+              "accuracy": 96,
+              "fireRate": 40
+            },
+            {
+              "name": "Washington Villarreal",
+              "place": 12,
+              "accuracy": 19,
+              "fireRate": 48
+            },
+            {
+              "name": "Patti Bradford",
+              "place": 13,
+              "accuracy": 71,
+              "fireRate": 20
+            },
+            {
+              "name": "Kathleen Meyer",
+              "place": 14,
+              "accuracy": 21,
+              "fireRate": 29
+            },
+            {
+              "name": "Freeman Cook",
+              "place": 15,
+              "accuracy": 97,
+              "fireRate": 41
+            },
+            {
+              "name": "Mack Gillespie",
+              "place": 16,
+              "accuracy": 24,
+              "fireRate": 19
+            },
+            {
+              "name": "Patsy Cervantes",
+              "place": 17,
+              "accuracy": 56,
+              "fireRate": 21
+            },
+            {
+              "name": "Blair Powell",
+              "place": 18,
+              "accuracy": 40,
+              "fireRate": 49
+            },
+            {
+              "name": "Guthrie Bullock",
+              "place": 19,
+              "accuracy": 34,
+              "fireRate": 27
+            },
+            {
+              "name": "Kim Cummings",
+              "place": 20,
+              "accuracy": 78,
+              "fireRate": 51
+            },
+            {
+              "name": "Kelly Winters",
+              "place": 21,
+              "accuracy": 36,
+              "fireRate": 11
+            },
+            {
+              "name": "Ann Delaney",
+              "place": 22,
+              "accuracy": 79,
+              "fireRate": 22
+            },
+            {
+              "name": "Kathryn Juarez",
+              "place": 23,
+              "accuracy": 95,
+              "fireRate": 49
+            },
+            {
+              "name": "Traci Hyde",
+              "place": 24,
+              "accuracy": 17,
+              "fireRate": 45
+            },
+            {
+              "name": "Lang Barron",
+              "place": 25,
+              "accuracy": 40,
+              "fireRate": 10
+            },
+            {
+              "name": "Estela Frank",
+              "place": 26,
+              "accuracy": 44,
+              "fireRate": 52
+            },
+            {
+              "name": "Walls Maynard",
+              "place": 27,
+              "accuracy": 15,
+              "fireRate": 38
+            },
+            {
+              "name": "Dawn Schneider",
+              "place": 28,
+              "accuracy": 68,
+              "fireRate": 34
+            },
+            {
+              "name": "Stuart Sexton",
+              "place": 29,
+              "accuracy": 80,
+              "fireRate": 36
+            },
+            {
+              "name": "Walters Tate",
+              "place": 30,
+              "accuracy": 69,
+              "fireRate": 18
+            },
+            {
+              "name": "Herrera Levine",
+              "place": 31,
+              "accuracy": 24,
+              "fireRate": 55
+            },
+            {
+              "name": "Gilmore Mccoy",
+              "place": 32,
+              "accuracy": 75,
+              "fireRate": 16
+            },
+            {
+              "name": "Gwendolyn Herman",
+              "place": 33,
+              "accuracy": 86,
+              "fireRate": 33
+            },
+            {
+              "name": "Natalie Pickett",
+              "place": 34,
+              "accuracy": 64,
+              "fireRate": 12
+            },
+            {
+              "name": "Terry Cantrell",
+              "place": 35,
+              "accuracy": 26,
+              "fireRate": 19
+            },
+            {
+              "name": "Hodge Brown",
+              "place": 36,
+              "accuracy": 92,
+              "fireRate": 40
+            },
+            {
+              "name": "Tamra Kirkland",
+              "place": 37,
+              "accuracy": 33,
+              "fireRate": 26
+            },
+            {
+              "name": "Callie Lester",
+              "place": 38,
+              "accuracy": 61,
+              "fireRate": 39
+            },
+            {
+              "name": "Marci Goodman",
+              "place": 39,
+              "accuracy": 32,
+              "fireRate": 50
+            },
+            {
+              "name": "Janie Park",
+              "place": 40,
+              "accuracy": 20,
+              "fireRate": 16
+            },
+            {
+              "name": "Hess Stanton",
+              "place": 41,
+              "accuracy": 49,
+              "fireRate": 17
+            },
+            {
+              "name": "Bradshaw Merrill",
+              "place": 42,
+              "accuracy": 90,
+              "fireRate": 40
+            },
+            {
+              "name": "Lesley Moran",
+              "place": 43,
+              "accuracy": 28,
+              "fireRate": 15
+            },
+            {
+              "name": "Ada Webb",
+              "place": 44,
+              "accuracy": 67,
+              "fireRate": 40
+            },
+            {
+              "name": "Willis Browning",
+              "place": 45,
+              "accuracy": 25,
+              "fireRate": 41
+            },
+            {
+              "name": "Lou Robertson",
+              "place": 46,
+              "accuracy": 37,
+              "fireRate": 46
+            },
+            {
+              "name": "Holcomb Hancock",
+              "place": 47,
+              "accuracy": 36,
+              "fireRate": 54
+            },
+            {
+              "name": "Buckner Wade",
+              "place": 48,
+              "accuracy": 88,
+              "fireRate": 32
+            },
+            {
+              "name": "Payne Bernard",
+              "place": 49,
+              "accuracy": 85,
+              "fireRate": 36
+            },
+            {
+              "name": "Sargent Mcpherson",
+              "place": 50,
+              "accuracy": 69,
+              "fireRate": 31
+            },
+            {
+              "name": "Benita Blair",
+              "place": 51,
+              "accuracy": 81,
+              "fireRate": 40
+            },
+            {
+              "name": "Laurie Wells",
+              "place": 52,
+              "accuracy": 37,
+              "fireRate": 17
+            },
+            {
+              "name": "Moran Romero",
+              "place": 53,
+              "accuracy": 50,
+              "fireRate": 17
+            },
+            {
+              "name": "Jessie Snider",
+              "place": 54,
+              "accuracy": 93,
+              "fireRate": 30
+            },
+            {
+              "name": "Beard Fuller",
+              "place": 55,
+              "accuracy": 53,
+              "fireRate": 39
+            },
+            {
+              "name": "Ratliff Mueller",
+              "place": 56,
+              "accuracy": 35,
+              "fireRate": 10
+            },
+            {
+              "name": "Smith Miranda",
+              "place": 57,
+              "accuracy": 96,
+              "fireRate": 26
+            },
+            {
+              "name": "Farmer Melton",
+              "place": 58,
+              "accuracy": 76,
+              "fireRate": 37
+            },
+            {
+              "name": "Tia Hester",
+              "place": 59,
+              "accuracy": 61,
+              "fireRate": 33
+            },
+            {
+              "name": "Alba Phillips",
+              "place": 60,
+              "accuracy": 98,
+              "fireRate": 28
+            },
+            {
+              "name": "Della Parks",
+              "place": 61,
+              "accuracy": 42,
+              "fireRate": 32
+            },
+            {
+              "name": "Mccullough Blake",
+              "place": 62,
+              "accuracy": 46,
+              "fireRate": 19
+            },
+            {
+              "name": "Elvira Guzman",
+              "place": 63,
+              "accuracy": 50,
+              "fireRate": 33
+            },
+            {
+              "name": "Odom Molina",
+              "place": 64,
+              "accuracy": 66,
+              "fireRate": 27
+            },
+            {
+              "name": "Conley Stokes",
+              "place": 65,
+              "accuracy": 34,
+              "fireRate": 36
+            },
+            {
+              "name": "Faye Doyle",
+              "place": 66,
+              "accuracy": 52,
+              "fireRate": 38
+            },
+            {
+              "name": "Brady Castillo",
+              "place": 67,
+              "accuracy": 76,
+              "fireRate": 24
+            },
+            {
+              "name": "Iva Todd",
+              "place": 68,
+              "accuracy": 37,
+              "fireRate": 38
+            },
+            {
+              "name": "Ramona Valentine",
+              "place": 69,
+              "accuracy": 63,
+              "fireRate": 50
+            },
+            {
+              "name": "Jodi Le",
+              "place": 70,
+              "accuracy": 38,
+              "fireRate": 15
+            }
+    ]
+}
