@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import TablePageContainer from './components/Table/TablePageContainer';
 
 function App() {

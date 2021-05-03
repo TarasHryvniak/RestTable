@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 import TableElement from "./TableElement"
-import style from "./TablePage.module.css"
+import style from "./TablePage.module.scss"
 
 
 const TablePage = (props) =>{
@@ -38,32 +38,33 @@ const TablePage = (props) =>{
         <div className={style.table_wrapper}>
             <div className={style.table_head}>
                 <div className={style.head_elements}>
-                    <p>Search</p>
-                    <textarea placeholder='insert name for search'
+                    <input type="text" id="search" placeholder='insert name for search'
                     onChange={onSearchFieldChange} 
-                    value={props.searchFieldText}></textarea>
+                    value={props.searchFieldText}></input>
                 </div>
                 <div className={style.head_elements}>
-                    <p>Sort</p>
-                    <select onChange={onSortFieldChange}>
-                    <option value = 'name'>Name</option>
-                    <option value = 'place'>Place</option>
-                    <option value = 'accuracy'>Accuracy</option>
-                    <option value = 'fireRate'>FireRate</option>
-                </select>
+                        <label htmlFor="sortBy" >Sort</label>
+                    <select id="sortBy" onChange={onSortFieldChange}>
+                        <option value = 'name'>Name</option>
+                        <option value = 'place'>Place</option>
+                        <option value = 'accuracy'>Accuracy</option>
+                        <option value = 'fireRate'>FireRate</option>
+                    </select>
                     <select onChange = {onReverseFieldChange}>
-                    <option value = {false}>from A to Z</option>
-                    <option value = {true}>from Z to A</option>
-                </select>
+                        <option value = {false}>from A to Z</option>
+                        <option value = {true}>from Z to A</option>
+                    </select>
                 </div>
             </div>
-            <div className={style.table_header}>
-                <h4>Place</h4>
-                <h4>Name</h4>
-                <h4>Accuracy</h4>
-                <h4>Fire rate</h4>
-            </div>
             <table className={style.table}>
+                <thead className={style.table_header}>
+                    <tr>
+                        <td><h4>Place</h4></td>
+                        <td><h4>Name</h4></td>
+                        <td><h4>Accuracy</h4></td>
+                        <td><h4>Fire rate</h4></td>
+                    </tr>
+                </thead>
                 <tbody>
                     {table}
                 </tbody>
